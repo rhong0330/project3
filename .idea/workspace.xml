@@ -13,9 +13,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SI206$twitterhw3b.coverage" NAME="twitterhw3b Coverage Results" MODIFIED="1479008783757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SI206$bshw3.coverage" NAME="bshw3 Coverage Results" MODIFIED="1479004399910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SI206$madlibhw3.coverage" NAME="madlibhw3 Coverage Results" MODIFIED="1478679018221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SI206$twitterhw3a.coverage" NAME="twitterhw3a Coverage Results" MODIFIED="1479006929661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SI206$twitterhw3a.coverage" NAME="twitterhw3a Coverage Results" MODIFIED="1479007488834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -41,8 +42,8 @@
       <file leaf-file-name="bshw3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bshw3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="121" />
+            <state relative-caret-position="450">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -50,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitterhw3a.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twitterhw3a.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitterhw3a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitterhw3b.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twitterhw3b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -85,8 +96,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/madlibhw3.py" />
-        <option value="$PROJECT_DIR$/bshw3.py" />
         <option value="$PROJECT_DIR$/twitterhw3a.py" />
+        <option value="$PROJECT_DIR$/bshw3.py" />
+        <option value="$PROJECT_DIR$/twitterhw3b.py" />
       </list>
     </option>
   </component>
@@ -156,7 +168,7 @@
     <property name="FullScreen" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/exam1si206/exam.py" />
   </component>
-  <component name="RunManager" selected="Python.twitterhw3a">
+  <component name="RunManager" selected="Python.twitterhw3b">
     <configuration default="false" name="madlibhw3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,6 +219,24 @@
       <module name="SI206" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitterhw3a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="twitterhw3b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SI206" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitterhw3b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -419,16 +449,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.madlibhw3" />
       <item index="1" class="java.lang.String" itemvalue="Python.bshw3" />
       <item index="2" class="java.lang.String" itemvalue="Python.twitterhw3a" />
+      <item index="3" class="java.lang.String" itemvalue="Python.twitterhw3b" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.twitterhw3a" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bshw3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.madlibhw3" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.twitterhw3b" />
+        <item index="1" class="java.lang.String" itemvalue="Python.twitterhw3a" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bshw3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.madlibhw3" />
       </list>
     </recent_temporary>
   </component>
@@ -539,8 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bshw3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="121" />
+        <state relative-caret-position="450">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -549,8 +581,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitterhw3a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitterhw3b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
