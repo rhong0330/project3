@@ -25,7 +25,7 @@ for img in soup.findAll('img'):
 
 
 str_soup = str(soup)
-print (str_soup.replace("student", "AMAZING student"))
+str_soup = str_soup.replace("student", "AMAZING student")
 f = open('bshw3.html','w')
 message = str_soup
 f.write(message)
